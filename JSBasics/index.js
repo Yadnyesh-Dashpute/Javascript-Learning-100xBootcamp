@@ -261,3 +261,6 @@ for (let key in inputNineTeen) {
     }
 }
 console.log(resultNineteen)
+
+
+
